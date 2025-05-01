@@ -40,7 +40,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+// Use the PORT environment variable from Railway
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+app.Urls.Add($"http://*:{port}");
+
+// Disable HTTPS redirection as Railway handles SSL termination
+// app.UseHttpsRedirection();
 app.UseCors("AllowAll");
 
 app.UseWebSockets(new WebSocketOptions

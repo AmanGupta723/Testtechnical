@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Public\\Code\\technicaltest\\Backend\\DashboardAPI\\DashboardAPI.csproj": {}
+    "C:\\Users\\Public\\Code\\Test\\Testtechnical\\Backend\\DashboardAPI\\DashboardAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Public\\Code\\technicaltest\\Backend\\DashboardAPI\\DashboardAPI.csproj": {
+    "C:\\Users\\Public\\Code\\Test\\Testtechnical\\Backend\\DashboardAPI\\DashboardAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public\\Code\\technicaltest\\Backend\\DashboardAPI\\DashboardAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\Code\\Test\\Testtechnical\\Backend\\DashboardAPI\\DashboardAPI.csproj",
         "projectName": "DashboardAPI",
-        "projectPath": "C:\\Users\\Public\\Code\\technicaltest\\Backend\\DashboardAPI\\DashboardAPI.csproj",
+        "projectPath": "C:\\Users\\Public\\Code\\Test\\Testtechnical\\Backend\\DashboardAPI\\DashboardAPI.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public\\Code\\technicaltest\\Backend\\DashboardAPI\\obj\\",
+        "outputPath": "C:\\Users\\Public\\Code\\Test\\Testtechnical\\Backend\\DashboardAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
